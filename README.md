@@ -9,12 +9,12 @@ In this project, we proposed a majority cluster based undersampling technique in
 leverage the ensemble majority voting technique. This proposed model achieves, 95% accuracy with 99% sensitivity.  
 
 ## Installation
-Install Julia Language: https://julialang.org/downloads/
+Install Julia Language: https://julialang.org/downloads/,
 Other necessary pakcages installation guide is given in the code. 
 
 ## Authors 
 
-Md. Tarikul Islam
-Dipta Paul 
-Ishtiaq 
+Md. Tarikul Islam,
+Dipta Paul, 
+Ishtiaq, 
 Dewan Md. Farid
