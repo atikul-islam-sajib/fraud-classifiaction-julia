@@ -1,7 +1,5 @@
 
-<snippet>
-  <content><![CDATA[
-# ${1:Classifying Fraud in Imbalanced Big Data with Julia}
+##Classifying Fraud in Imbalanced Big Data with Julia
 
 Fraud classification is one of the most challenging problems in machine learning. Frauduland transactions are very minor event
 comparing to the legal ones. So, in Big data algorithms shows bias to the Majority events like non-frauduland transactions and 
@@ -13,6 +11,3 @@ leverage the ensemble majority voting technique. This proposed model achieves, 9
 Install Julia Language: https://julialang.org/downloads/
 Other necessary pakcages installation guide is given in the code. 
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
