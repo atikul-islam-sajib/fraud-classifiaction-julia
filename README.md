@@ -15,6 +15,8 @@ Other necessary pakcages installation guide is given in the code.
 ## Authors 
 
 Md. Tarikul Islam,
+Atikul Islam Sajib,
 Dipta Paul, 
 Ishtiaq, 
 Dewan Md. Farid
+
